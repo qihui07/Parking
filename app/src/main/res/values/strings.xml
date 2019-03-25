@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">停车系统</string>
+    <string name="title_home">建单</string>
+    <string name="title_dashboard">统计</string>
+    <string name="title_notifications">签到</string>
+
+
+    <string name="title_content">内容区域</string>
+</resources>
